@@ -1,0 +1,2 @@
+-- You can use this file to load seed data into the database using SQL statements
+insert into PUBLIC.USER (ID, AGE, FIRST_NAME, GENDER, LAST_NAME, MIDDLE_NAME, PHONE, ZIP) values (99, 33, 'Ajay', 'M' ,'Malepati', 'Kumar', 2101110000, 78200)
